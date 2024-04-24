@@ -23,7 +23,7 @@ To run the React News App on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone 
+git clone https://github.com/benwhiji/news
 ```
 
 2. Navigate to the project directory:
@@ -47,4 +47,4 @@ npm start
 5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
 
 
-more info www.benwhiji.co.za
+more info www.benwhiji.co.za go to to access hosted application [muponisi-news.web.app](https://muponisi-news.web.app/)
